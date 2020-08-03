@@ -11,6 +11,12 @@ This repo is currently under development! To do a developmental install, downloa
 
 `pip install -e .`
 
+in the repo directory.
+
+This package requires the following:
+ -numpy
+ -matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Iliya Sabzevari
